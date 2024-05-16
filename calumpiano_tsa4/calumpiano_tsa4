@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="calumpiano_tsa4.css">
+<body>
+    <center>
+        <h1 class="head">ADVISORY</h1>
+        <h2 class="subhead">ONLINE SYNCHRONOUS CLASSES ON APRIL 29 AND 30, 2024</h2>
+        <p>Due to the scheduled nationwide transport strike, FEU Tech will conduct synchronous <br> online classes
+            on
+            <span></span>April 29 and 30, 2024. Students are advised to check their Canvas
+            <br> account for assignments or consult with faculty for other instructions.
+        </p>
+        <p>FEU Tech will not be liable for any harm to students from external activities, <br> as the University had
+            already announced the shift to an online class setup in advance.</p>
+        <p>All offices will be open onsite to assist you with enrollment and <br> other transaction and will follow
+            regular working operations schedule.</p>
+        <p class="bold">
+            Keep safe, Tamaraws
+        </p>
+
+        <p class="quote">
+           Technology driven by education
+        </p>
+
+    </center>
+</body>
+
+</html>
