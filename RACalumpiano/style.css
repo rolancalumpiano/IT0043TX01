@@ -5,7 +5,7 @@
 
 body {
     background-image: url(bg.jpg);
-    
+
 }
 
 .main_container {
@@ -34,7 +34,7 @@ img {
 
 }
 
-.container2{
+.container2 {
     background-color: pink;
     height: 400;
     width: 400;
@@ -49,7 +49,7 @@ img {
 }
 
 .container3 {
-    background-color: chocolate ;
+    background-color: chocolate;
     height: 400;
     width: 400;
     margin: 10px;
@@ -62,7 +62,7 @@ img {
 
 }
 
-.container4{
+.container4 {
     background-color: burlywood;
     height: 400;
     width: 400;
@@ -90,7 +90,7 @@ img {
 
 }
 
-.container6{
+.container6 {
     background-color: darkblue;
     height: 400;
     width: 400;
@@ -118,7 +118,7 @@ img {
 
 }
 
-.container8{
+.container8 {
     background-color: purple;
     height: 400;
     width: 400;
@@ -139,7 +139,7 @@ img {
     margin: 10px;
 }
 
-.container10{
+.container10 {
     background-color: cyan;
     height: 400;
     width: 400;
@@ -167,7 +167,7 @@ img {
 
 }
 
-.container12{
+.container12 {
     background-color: gold;
     height: 400;
     width: 400;
@@ -178,5 +178,189 @@ img {
     background-image: url(hover.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+
+}
+
+@media only screen and (max-width: 1450px) {
+    img {
+        height: 100;
+    }
+
+    .container1 {
+        background-color: yellow;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container2 {
+        background-color: pink;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container3 {
+        background-color: chocolate;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container4 {
+        background-color: burlywood;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container5 {
+        background-color: green;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container6 {
+        background-color: darkblue;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container7 {
+        background-color: orangered;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container8 {
+        background-color: purple;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container9 {
+        background-color: violet;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container10 {
+        background-color: cyan;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+    .container11 {
+        background-color: indigo;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+
+    .container12 {
+        background-color: gold;
+        height: 260;
+        width: 800;
+        margin: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 703px) {
+    img {
+        height: 300px;
+    }
+
+    .container1 {
+        background-color: yellow;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container2 {
+        background-color: pink;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container3 {
+        background-color: chocolate;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container4 {
+        background-color: burlywood;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container5 {
+        background-color: green;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container6 {
+        background-color: darkblue;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container7 {
+        background-color: orangered;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container8 {
+        background-color: purple;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container9 {
+        background-color: violet;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container10 {
+        background-color: cyan;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+    .container11 {
+        background-color: indigo;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
+
+
+    .container12 {
+        background-color: gold;
+        height: 450;
+        width: 450;
+        margin: 10px;
+    }
 
 }
