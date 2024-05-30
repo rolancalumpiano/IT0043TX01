@@ -1,0 +1,182 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(bg.jpg);
+    
+}
+
+.main_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+img {
+    height: 225px;
+    margin: 90px;
+}
+
+.container1 {
+    background-color: yellow;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container1:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container2{
+    background-color: pink;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container2:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container3 {
+    background-color: chocolate ;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container3:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container4{
+    background-color: burlywood;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container4:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container5 {
+    background-color: green;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container5:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container6{
+    background-color: darkblue;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container6:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container7 {
+    background-color: orangered;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container7:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container8{
+    background-color: purple;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container9:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container9 {
+    background-color: violet;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container10{
+    background-color: cyan;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container10:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container11 {
+    background-color: indigo;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container11:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container12{
+    background-color: gold;
+    height: 400;
+    width: 400;
+    margin: 10px;
+}
+
+.container12:hover {
+    background-image: url(hover.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
