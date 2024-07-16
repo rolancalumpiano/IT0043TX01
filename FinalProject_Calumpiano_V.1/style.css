@@ -334,7 +334,7 @@ nav a:hover {
     height: 40px;
 }
 
-@media (max-width: 1024px){
+@media (min-width: 1024px){
 
     .highlight1 {
         color: #009900;
